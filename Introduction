@@ -1,0 +1,4 @@
+Used Hoffman Coding to compress and then decompress a file achieving 100% efficiency and data loss.
+– Tools & Tech Stack: C++,Algorithms
+– The File Compression Decompression Using Hoffman Coding project is a program that utilizes the Huffman coding
+algorithm to compress and decompress files.It also achieved no data loss and 100% accuracy
